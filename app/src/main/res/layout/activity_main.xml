@@ -35,7 +35,7 @@
         android:textAlignment="center"
         android:textSize="24sp"
         android:gravity="center_horizontal"
-        android:inputType="numberDecimel"
+        android:inputType=""
         android:textStyle="bold"
         android:hint="@string/value_hint"/>
     <LinearLayout
